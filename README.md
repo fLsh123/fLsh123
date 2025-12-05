@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Emmanuel Senaij</h1>
-<h3 align="center">Cybersecurity Analyst | Ethical Hacker | Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Cybersecurity Analyst | Ethical Hacker | Developer </h3>
 
 ---
 
@@ -68,7 +68,7 @@ A collection of Python-based security tools for:
 
 ---
 
-## 🚀 Goals for 2025
+## 🚀 Goals for 2026
 - Become a **Bug Bounty Expert**  
 - Build and host my **personal cybersecurity portfolio website**  
 - Master **HTML, CSS, JavaScript & Python tool development**  
