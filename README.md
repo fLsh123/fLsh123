@@ -5,8 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fLsh123)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelsenaij345@gmail.com)
 
-📍 Alappuzha, Kerala | 📞 +91 8129441488
-
 ---
 
 ## 👨‍💻 Professional Summary
@@ -43,37 +41,6 @@ Results-driven cybersecurity professional with hands-on experience in vulnerabil
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### Cognizant Technology Solutions – Analyst
-**Kochi, India | Dec 2024 – Present**
-*   Collaborating with multidisciplinary UI/UX teams.
-*   Working with Photoshop, HTML, CSS, and JavaScript for web design tasks.
-
-### Techbyheart – Cybersecurity Intern
-**Kochi, India | Apr 2024 – May 2025**
-*   Contributed to vulnerability assessments and pentesting tasks.
-*   Used Nmap, Burp Suite, and Wireshark for scanning, traffic capture, and analysis.
-*   Worked on real-world cybersecurity exercises and hands-on labs.
-
-### Infotech – Cybersecurity Intern
-**Remote | Sep 2024**
-*   Performed reconnaissance, scanning, and penetration testing on internal platforms.
-*   Executed vulnerability analysis and documented findings.
-
----
-
-## 🎓 Education
-
-*   **B.Sc. Computer Science** (GPA: 7.2/10)
-    *   St. Albert’s College (Autonomous), Ernakulam | Aug 2021 – May 2024
-*   **Higher Secondary Education – Science** (88%)
-    *   TD HSS, Thuravoor, Kerala | 2019 – 2021
-*   **Secondary Education** (74%)
-    *   Our Lady of Mercy, Aroor, Kerala | 2018 – 2019
 
 ---
 
